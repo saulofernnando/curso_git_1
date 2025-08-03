@@ -1,1 +1,2 @@
 Testando uma atualização de arquivo!
+Incluindo para testar o git log
